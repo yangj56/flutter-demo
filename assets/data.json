@@ -1,0 +1,20 @@
+[
+    {
+        "id": "item-1",
+        "name": "Paper",
+        "selected": false,
+        "index": 0
+    },
+    {
+        "id": "item-2",
+        "name": "Water",
+        "selected": false,
+        "index": 0
+    },
+    {
+        "id": "item-3",
+        "name": "Rock",
+        "selected": false,
+        "index": 0
+    }
+]
